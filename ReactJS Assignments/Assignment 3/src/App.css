@@ -30,3 +30,13 @@
     transform: rotate(360deg);
   }
 }
+
+* { 
+   font-family: 'NafeesRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+}
+
+table {
+  width: 100%;
+}
